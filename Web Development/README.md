@@ -35,25 +35,22 @@ We have segment the resources into topics and inside each topic the content is a
 ├ - ├── [Basics Of HTML.md](/HTML/DAY1.md)<br>
 ├ - ├── [Tables & List.md](/HTML/DAY2.md)<br>
 ├ - ├── [Debuging of HTML Code and creating forms.md](/HTML/DAY3.md)<br>
-├ - ├── [DAY4.md](/HTML/DAY4.md)<br>
-├ - ├── [DAYOptional.md](/HTML/DAYOptional.md)<br>
+├ - ├── [Media in HTML.md](/HTML/DAY4.md)<br>
+├ - ├── [APIs in HTML.md](/HTML/DAYOptional.md)<br>
 ├ - └── [ReadME.md](/HTML/ReadME.md)<br>
-├ - └── [Html_Quiz](/HTML/Html_Quiz.md)<br>
 ├<br>
 ├── [CSS](/CSS)<br>
-├ - ├── [DAY1.md](/CSS/DAY1.md)<br>
-├ - ├── [DAY2.md](/CSS/DAY2.md)<br>
-├ - ├── [DAY3.md](/CSS/DAY3.md)<br>
-├ - ├── [DAY4.md](/CSS/DAY4.md)<br>
-├ - ├── [Optional.md](/CSS/Optional.md)<br>
+├ - ├── [Basics of CSS.md](/CSS/DAY1.md)<br>
+├ - ├── [Padding, Height, Widths of an Element.md](/CSS/DAY2.md)<br>
+├ - ├── [Texts, Icons, Typography, Forms & Grids.md](/CSS/DAY3.md)<br>
+├ - ├── [Flexbox & Grid.md](/CSS/DAY4.md)<br>
+├ - ├── [HEX, HSL, Transformation, Transition & Animation.md](/CSS/Optional.md)<br>
 ├ - ├── [ReadME.md](/CSS/ReadME.md)<br>
-├ - └── [CSS_Quiz](/CSS/CSS_Quiz.md)<br>
 ├<br>
 ├── [Bootstrap](/CSS)<br>
 ├ - ├── [DAY1.md](/Bootstrap/DAY1.md)<br>
 ├ - ├── [DAY2.md](/Bootstrap/DAY2.md)<br>
 ├ - ├── [ReadME.md](/Bootstrap/ReadME.md)<br>
-├ - └── [Bootstrap_Quiz](/Bootstrap/Bootstrap_Quiz.md)<br>
 ├<br>
 ├── [JavaScript](/JavaScript)<br>
 ├ - ├── [DAY1.md](/JavaScript/DAY1.md)<br>
@@ -63,7 +60,6 @@ We have segment the resources into topics and inside each topic the content is a
 ├ - ├── [DAY5.md](/JavaScript/DAY5.md)<br>
 ├ - ├── [DAY6.md](/JavaScript/DAY6.md)<br>
 ├ - ├── [ReadME.md](/JavaScript/ReadME.md)<br>
-├ - └── [Javascript_Quiz](/JavaScript/Javascript_Quiz.md)<br>
 ├<br>
 ├── [Github](/Github)<br>
 ├ - - └── [GITHUB.md](/Github/GITHUB.md)<br>
