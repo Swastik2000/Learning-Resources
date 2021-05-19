@@ -48,8 +48,8 @@ We have segment the resources into topics and inside each topic the content is a
 ├ - ├── [ReadME.md](/CSS/ReadME.md)<br>
 ├<br>
 ├── [Bootstrap](/CSS)<br>
-├ - ├── [DAY1.md](/Bootstrap/DAY1.md)<br>
-├ - ├── [DAY2.md](/Bootstrap/DAY2.md)<br>
+├ - ├── [Part 1.md](/Bootstrap/DAY1.md)<br>
+├ - ├── [Part 2.md](/Bootstrap/DAY2.md)<br>
 ├ - ├── [ReadME.md](/Bootstrap/ReadME.md)<br>
 ├<br>
 ├── [JavaScript](/JavaScript)<br>
