@@ -61,8 +61,8 @@ We have segment the resources into topics and inside each topic the content is a
 ├ - ├── [DOM Essentials.md](/JavaScript/DAY6.md)<br>
 ├ - ├── [ReadME.md](/JavaScript/ReadME.md)<br>
 ├<br>
-├── [Github](/Github)<br>
-├ - - └── [GITHUB.md](/Github/GITHUB.md)<br>
+├── [GIT & Github](/Github)<br>
+├ - - └── [GIT and GITHUB.md](/Github/GITHUB.md)<br>
 ├<br>
 ├── [Hosting](/Hosting)<br>
 ├ - ├── [DAY1.md](/Hosting/DAY1.md)<br>
