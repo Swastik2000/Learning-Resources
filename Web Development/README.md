@@ -53,12 +53,12 @@ We have segment the resources into topics and inside each topic the content is a
 ├ - ├── [ReadME.md](/Bootstrap/ReadME.md)<br>
 ├<br>
 ├── [JavaScript](/JavaScript)<br>
-├ - ├── [DAY1.md](/JavaScript/DAY1.md)<br>
-├ - ├── [DAY2.md](/JavaScript/DAY2.md)<br>
-├ - ├── [DAY3.md](/JavaScript/DAY3.md)<br>
-├ - ├── [DAY4.md](/JavaScript/DAY4.md)<br>
-├ - ├── [DAY5.md](/JavaScript/DAY5.md)<br>
-├ - ├── [DAY6.md](/JavaScript/DAY6.md)<br>
+├ - ├── [Info.md](/JavaScript/DAY1.md)<br>
+├ - ├── [Data types, Arithmetic operations and a brief about Functions.md](/JavaScript/DAY2.md)<br>
+├ - ├── [Arrays, classes, and objects in JavaScript and how inheritance works.md](/JavaScript/DAY3.md)<br>
+├ - ├── [Arrow functions, Spread and Rest Operators & DOM.md](/JavaScript/DAY4.md)<br>
+├ - ├── [More into DOM.md](/JavaScript/DAY5.md)<br>
+├ - ├── [DOM Essentials.md](/JavaScript/DAY6.md)<br>
 ├ - ├── [ReadME.md](/JavaScript/ReadME.md)<br>
 ├<br>
 ├── [Github](/Github)<br>
