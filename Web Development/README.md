@@ -65,8 +65,8 @@ We have segment the resources into topics and inside each topic the content is a
 ├ - - └── [GIT and GITHUB.md](/Github/GITHUB.md)<br>
 ├<br>
 ├── [Hosting](/Hosting)<br>
-├ - ├── [DAY1.md](/Hosting/DAY1.md)<br>
-├ - ├── [DAY2.md](/Hosting/DAY2.md)<br>
+├ - ├── [Deploy website on Githubpages.md](/Hosting/DAY1.md)<br>
+├ - ├── [Deploy website on Netlify.md](/Hosting/DAY2.md)<br>
 ├ - └── [ReadME.md](/Hosting/ReadME.md)<br>
 ├<br>
 ├── [Firebase](/Firebase)<br>
