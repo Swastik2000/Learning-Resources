@@ -70,8 +70,8 @@ We have segment the resources into topics and inside each topic the content is a
 ├ - └── [ReadME.md](/Hosting/ReadME.md)<br>
 ├<br>
 ├── [Firebase](/Firebase)<br>
-├ - ├── [DAY1.md](/Firebase/DAY1.md)<br>
-├ - ├── [DAY2.md](/Firebase/DAY2.md)<br>
+├ - ├── [How Internet & client-server model works .md](/Firebase/DAY1.md)<br>
+├ - ├── [Firebase Introduction.md](/Firebase/DAY2.md)<br>
 ├ - ├── [DAY3.md](/Firebase/DAY3.md)<br>
 ├ - ├── [DAY4.md](/Firebase/DAY4.md)<br>
 ├ - ├── [DAY5.md](/Firebase/DAY5.md)<br>
