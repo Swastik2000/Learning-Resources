@@ -80,3 +80,4 @@ We have segment the resources into topics and inside each topic the content is a
 
 <!-- Reach Us -->
 ## Reach Us
+[<img src="https://cdn.iconscout.com/icon/free/png-256/youtube-85-226402.png" alt="YouTube" width=50 height=50/>](https://www.youtube.com/channel/UCUASJcVXk_rmmFiyGOW4Qkg)&nbsp;
